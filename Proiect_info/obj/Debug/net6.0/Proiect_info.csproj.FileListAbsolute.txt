@@ -1,0 +1,15 @@
+C:\Users\night\source\repos\Proiect_info\bin\Debug\net6.0\Proiect_info.exe
+C:\Users\night\source\repos\Proiect_info\bin\Debug\net6.0\Proiect_info.deps.json
+C:\Users\night\source\repos\Proiect_info\bin\Debug\net6.0\Proiect_info.runtimeconfig.json
+C:\Users\night\source\repos\Proiect_info\bin\Debug\net6.0\Proiect_info.dll
+C:\Users\night\source\repos\Proiect_info\bin\Debug\net6.0\Proiect_info.pdb
+C:\Users\night\source\repos\Proiect_info\obj\Debug\net6.0\Proiect_info.csproj.AssemblyReference.cache
+C:\Users\night\source\repos\Proiect_info\obj\Debug\net6.0\Proiect_info.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\night\source\repos\Proiect_info\obj\Debug\net6.0\Proiect_info.AssemblyInfoInputs.cache
+C:\Users\night\source\repos\Proiect_info\obj\Debug\net6.0\Proiect_info.AssemblyInfo.cs
+C:\Users\night\source\repos\Proiect_info\obj\Debug\net6.0\Proiect_info.csproj.CoreCompileInputs.cache
+C:\Users\night\source\repos\Proiect_info\obj\Debug\net6.0\Proiect_info.dll
+C:\Users\night\source\repos\Proiect_info\obj\Debug\net6.0\refint\Proiect_info.dll
+C:\Users\night\source\repos\Proiect_info\obj\Debug\net6.0\Proiect_info.pdb
+C:\Users\night\source\repos\Proiect_info\obj\Debug\net6.0\Proiect_info.genruntimeconfig.cache
+C:\Users\night\source\repos\Proiect_info\obj\Debug\net6.0\ref\Proiect_info.dll
